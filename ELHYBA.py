@@ -1,4 +1,4 @@
-from mody import Mody
+
 import logging
 import webbrowser
 import os
